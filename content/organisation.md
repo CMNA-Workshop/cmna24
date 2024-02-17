@@ -36,7 +36,7 @@ Subject to confirmation...
 <dt>Reva Freedman</dt><dd>Northern Illinois University</dd>
 <dt>Massimiliano Giacomin</dt><dd>University of Brescia</dd>
 <dt>Stella Heras</dt><dd>Universitat Politecnica de Valencia</dd>
-<dt>Helmut Horacek></dt><dd>Saarland University</dd>
+<dt>Helmut Horacek</dt><dd>Saarland University</dd>
 <dt>Mare Koit</dt><dd>University of Tartu</dd>
 <dt>Collin Lynch</dt><dd>North Carolina State University</dd>
 <dt>Elena Musi</dt><dd>University of Liverpool</dd>
@@ -47,7 +47,7 @@ Subject to confirmation...
 <dt>Guillermo R. Simari</dt><dd>Universidad del Sur in Bahia Blanca</dd>
 <dt>Mark Snaith</dt><dd>Robert Gordon University Aberdeen</dd>
 <dt>Marko Tkalcic</dt><dd>University of Primorska</dd>
-<dt>Serena Villata</dt><dd>CNRS - Laboratoire d'Informatique, Signaux et SystÃ¨mes de Sophia-Antipolis</dd>
+<dt>Serena Villata</dt><dd>CNRS - Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis</dd>
 <dt>Tommy Yuan</dt><dd>University of York</dd>
 
 </dl>
