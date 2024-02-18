@@ -10,17 +10,19 @@ params:
   homeInfoParams:
     Title: "The 24th International Workshop on Computational Models of Natural Argument (CMNA'24)"
     Content: |
-        Since its inception in 2001, the CMNA workshop series has focused upon the issue of modelling “*natural*” argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting "extra-rational" characteristics of the audience, taking into account emotions and affective factors.
-        
-        AI has witnessed a prodigious growth in uses of argumentation throughout many of its subdisciplines: 
-        - agent system negotiation protocols that demonstrate higher levels of sophistication and robustness; 
-        - argumentation-based models of evidential relations and legal processes that are more expressive; 
-        - groupwork tools that use argument to structure interaction and debate; 
-        - computer-based learning tools that exploit monological and dialogical argument structures in designing pedagogic environments; 
-        - decision support systems that build upon argumentation theoretic models of deliberation to better integrate with human reasoning; 
-        - and models of knowledge engineering structured around core concepts of argument to simplify knowledge elicitation and representation problems. 
+        The forthcoming 24th Edition of the Workshop on Computational Models of Natural Argument (CMNA'24) will be held as part of the <a href="https://comma2024.krportal.org/" style="text-decoration:underline">10th International Conference on Computational Models of Argument</a> (COMMA 2024).
 
-        Furthermore, benefits have not been unilateral for AI, as demonstrated by the increasing presence of AI scholars in classical argumentation theory events and journals, and AI implementations of argument finding application in both research and pedagogic practice within philosophy and argumentation theory. 
+        To celebrate our co-location with COMMA, this year we solicit contributions on the special theme of "**domains of natural argument**". Contributions to this theme will form the focus of a subsequent, post-workshop, special issue of the <a href="https://www.iospress.com/catalog/journals/argument-computation" style="text-decoration:underline">Journal of Argument & Computation</a>. 
+
+        The special theme should be interpreted broadly, to reflect the wide range of argumentative practices in specialist domains such as law, medicine, natural sciences, economics, sociology, education, public policy, behaviour change, explainable AI, military intelligence, software engineering, implementation science, business and financial communication, etc. 
+        
+        Additionally contributions within this theme might explore various questions: 
+        - What features (e.g., dialogue models, argumentation schemes, speech acts, rhetorical devices and/or linguistic cues) are particular to a given domain. 
+        - How do they relate to features of other specialist domains or "everyday" argumentation? 
+        - How can study of natural argument in a particular domain inform models of natural argument in other domains? 
+        - How are classical models of natural argument and domain-specific models related to each other?
+
+        Finally, we also solicit papers concerned with the full range of <a href="topics/" style="text-decoration:underline">topics</a> that CMNA usually focusses upon.
 
   defaultTheme: auto
   ShowPostNavLinks: true
@@ -56,6 +58,9 @@ languages:
         - name: Programme
           url: /programme/
           weight: 12
+        - name: About
+          url: /about/
+          weight: 15
 
 outputs:
   home:
