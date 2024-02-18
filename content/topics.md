@@ -4,6 +4,23 @@ subtitle:
 comments: false
 ---
 
+# Special Theme
+
+In 2024 we solicit contributions on the special theme of “**domains of natural argument**”.
+
+The special theme should be interpreted broadly, to reflect the wide range of argumentative practices in specialist domains such as law, medicine, natural sciences, economics, sociology, education, public policy, behaviour change, explainable AI, military intelligence, software engineering, implementation science, business and financial communication, etc.
+
+Additionally contributions within this theme might explore various questions:
+
+- What features (e.g., dialogue models, argumentation schemes, speech acts, rhetorical devices and/or linguistic cues) are particular to a given domain.
+- How do they relate to features of other specialist domains or “everyday” argumentation?
+- How can study of natural argument in a particular domain inform models of natural argument in other domains?
+- How are classical models of natural argument and domain-specific models related to each other?
+
+Contributions to this theme will be invited to submit extended work to a special issue of the [Journal of Argument & Computation](https://www.iospress.com/catalog/journals/argument-computation).
+
+# Regular Topics
+
 The CMNA workshop series focuses on the general issue of modelling "natural" argumentation.
 
 <!--However, to celebrate our co-location with COMMA, this year we have introduced a special theme on *explorations of the relationship between logic programming and computational models of natural argument*. Our theme should be interpreted broadly, to reflect the wide range of approaches to recognising, formalising, and understanding the richness of real-world reasoning and communication processes within computational models. 
