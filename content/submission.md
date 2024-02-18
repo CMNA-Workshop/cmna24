@@ -6,9 +6,9 @@ comments: false
 
 # Considering a submission to CMNA?
 
-We prid ourselves on operating CMNA as a "broad church" and aiming for inclusiveness so if you're unsure of whether CMNA is a good fit for your work you can:
+We pride ourselves on operating CMNA as a "broad church" and aiming for inclusiveness so if you're unsure of whether CMNA is a good fit for your work you can:
 
-1. [contact](/cmna23/organisation/) a member of the organising committee, or 
+1. [contact](/cmna24/organisation/) a member of the organising committee, or 
 2. explore our archives at the [CMNA.info](http://cmna.info) site or 
 3. survey a selection of papers from the CEUR archive of previous CMNA workshops:
     * [Volume #3614 (CMNA'23)](https://ceur-ws.org/Vol-3614/),
@@ -48,7 +48,7 @@ Long & Short Paper submission will be handled by the Easychair conference system
 
 ## Poster & Demo Abstract Submission
 
-Poster & Demo abstracts should be submitted directly to the organising committee using an email address from the [organisation page](/cmna23/organisation) and not through easychair.
+Poster & Demo abstracts should be submitted directly to the organising committee using an email address from the [organisation page](/cmna24/organisation) and not through easychair.
 
 
 # Contribution Style 
@@ -68,4 +68,5 @@ We've gotten into the habit recently of publishing pre-proceedings shortly befor
 
 # Post-Proceedings Publication
 
-Periodically we publish a collection of papers from recent CMNA events. It is coming time to do so again...
+<!--Periodically we publish a collection of papers from recent CMNA events. It is coming time to do so again...-->
+This year, in addition to our regular [topics](/cmna24/topics/) we are organising CMNA with the special theme of "[domains of natural argument](/cmna24/topics/#special-theme)". Contributions to this theme will form the focus of a subsequent, post-workshop, special issue of the Journal of Argument & Computation. Extended papers will be solicited in a special issue call immediately after the CMNA workshop.
