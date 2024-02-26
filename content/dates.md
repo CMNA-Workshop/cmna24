@@ -10,4 +10,4 @@ comments: false
 * Demo, poster, & late breaking results submission (2 page abstract): **13th August 2024**
 * Demo, poster, & late breaking results Notification to authors: **20th August 2024**
 * Final (Camera Ready) version of papers: **27th August 2024**
-* Workshop: **16th/17th September 2024** (exact data to be confirmed within the COMMA schedule
+* Workshop: **17th September 2024**
