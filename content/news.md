@@ -4,7 +4,8 @@ subtitle:
 comments: false
 ---
 
-* [2024.02.13] All new CMNA'24 Website published with an all new design
+* [2024.02.26] Final Workshop day confirmed. See the [dates](/cmna24/dates/) page for more info.
+* [2024.02.13] All new CMNA'24 Website published with an all new design.
 
 <!--
 * [2024.01.09] [Proceedings](http://ceur-ws.org/Vol-3614/) published
