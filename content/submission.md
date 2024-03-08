@@ -42,13 +42,15 @@ It is highly recommended, but not mandatory, to format papers using the [CEUR Si
 
 ## Regular (Long & Short) Paper Submission
 
-Long & Short Paper submission will be handled by the Easychair conference system. Please submit your paper here via easychair: 
+Long & Short Paper submission will be handled by the Conference Management Toolkit (CMT) . Please submit your paper here via CMT:
+
+* **[CMT submission link](#)**
 
 <!--* https://easychair.org/conferences/?conf=cmna23-->
 
 ## Poster & Demo Abstract Submission
 
-Poster & Demo abstracts should be submitted directly to the organising committee using an email address from the [organisation page](/cmna24/organisation) and not through easychair.
+Poster & Demo abstracts should be submitted directly to the organising committee using an email address from the [organisation page](/cmna24/organisation) and not through CMT.
 
 
 # Contribution Style 
