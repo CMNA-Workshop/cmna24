@@ -42,7 +42,7 @@ It is highly recommended, but not mandatory, to format papers using the [CEUR Si
 
 ## Regular (Long & Short) Paper Submission
 
-Long & Short Paper submission will be handled by the Conference Management Toolkit (CMT) . Please submit your paper here via CMT:
+Long & Short Paper submission will be handled by the Conference Management Toolkit (CMT). Please submit your paper here via CMT:
 
 * **[CMT submission link](#)**
 
