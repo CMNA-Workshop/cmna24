@@ -3,7 +3,7 @@ title:  News & Updates
 subtitle: 
 comments: false
 ---
-
+* [2024.03.22] Link for [submissions](/cmna24/subsmission) released
 * [2024.03.22] First [CFP](/cmna24/subsmission) released
 * [2024.02.26] Final Workshop day confirmed. See the [dates](/cmna24/dates/) page for more info.
 * [2024.02.13] All new CMNA'24 Website published with an all new design.
