@@ -44,7 +44,7 @@ It is highly recommended, but not mandatory, to format papers using the [CEUR Si
 
 Long & Short Paper submission will be handled by the Conference Management Toolkit (CMT). Please submit your paper here via CMT:
 
-* **[CMT submission link](#)**
+* **[CMT submission link](https://cmt3.research.microsoft.com/CMNA2024/)**
 
 <!--* https://easychair.org/conferences/?conf=cmna23-->
 
