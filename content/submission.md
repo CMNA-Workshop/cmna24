@@ -26,6 +26,13 @@ We pride ourselves on operating CMNA as a "broad church" and aiming for inclusiv
 * Download a PDF version of the [third call for papers](/cmna23/assets/cfp/cfp3.pdf)
 * Download a PDF version of the [fourth call for papers](/cmna23/assets/cfp/cfp4.pdf)-->
 
+# Workshop Submissions
+
+All submission types will be handled by the Conference Management Toolkit (CMT). Please submit your papers, demos, and posters via CMT using the following link:
+
+* **[CMT submission link](https://cmt3.research.microsoft.com/CMNA2024/)**
+
+
 # Workshop Categories
 
 The workshop encourages submissions in four categories:
@@ -39,19 +46,6 @@ The workshop encourages submissions in four categories:
 All accepted submissions will be archived locally on this site. Long & short papers will also be archved through CEUR workshop proceedings. Demos & posters will only be archived locally.
 
 It is highly recommended, but not mandatory, to format papers using the [CEUR Single Column Style](http://ceur-ws.org/Vol-XXX/) (more details below in the style section). 
-
-## Regular (Long & Short) Paper Submission
-
-Long & Short Paper submission will be handled by the Conference Management Toolkit (CMT). Please submit your paper here via CMT:
-
-* **[CMT submission link](https://cmt3.research.microsoft.com/CMNA2024/)**
-
-<!--* https://easychair.org/conferences/?conf=cmna23-->
-
-## Poster & Demo Abstract Submission
-
-Poster & Demo abstracts should be submitted directly to the organising committee using an email address from the [organisation page](/cmna24/organisation) and not through CMT.
-
 
 # Contribution Style 
 
