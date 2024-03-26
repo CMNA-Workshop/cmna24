@@ -35,7 +35,7 @@ All submission types will be handled by the Conference Management Toolkit (CMT).
 
 # Workshop Categories
 
-The workshop encourages submissions in four categories:
+The workshop encourages submissions spanning a number of categories:
 
 * Long papers, either reporting on completed work or offering a polemic discussion on a burning issue (up to 10 pages).
 * Short papers describing work in progress (up to 5 pages).
