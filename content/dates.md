@@ -4,6 +4,7 @@ subtitle:
 comments: false
 ---
 
+* Updated Paper Submission Deadline (long & short papers): **15th July 2024**
 * Regular Paper submission (long & short papers): **8th July 2024**
 * Review Period:  **9th July 2024 -- 1st August 2024**
 * Notification to authors: **13th August 2024**

@@ -23,8 +23,8 @@ We pride ourselves on operating CMNA as a "broad church" and aiming for inclusiv
 
 * Download a PDF version of the [first call for papers](/cmna24/assets/cfp/cfp1.pdf) 
 * Download a PDF version of the [second call for papers](/cmna24/assets/cfp/cfp2.pdf)
-<!--* Download a PDF version of the [third call for papers](/cmna23/assets/cfp/cfp3.pdf)
-* Download a PDF version of the [fourth call for papers](/cmna23/assets/cfp/cfp4.pdf)-->
+* Download a PDF version of the [third call for papers](/cmna23/assets/cfp/cfp3.pdf)
+<!--* Download a PDF version of the [fourth call for papers](/cmna23/assets/cfp/cfp4.pdf)-->
 
 # Workshop Submissions
 

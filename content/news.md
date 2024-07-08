@@ -3,6 +3,7 @@ title:  News & Updates
 subtitle: 
 comments: false
 ---
+* [2024.07.08] Third [CFP](/cmna24/submission) with updated deadline released
 * [2024.07.03] Second [CFP](/cmna24/subsmission) released
 * [2024.03.22] Link for [submissions](/cmna24/subsmission) released
 * [2024.03.22] First [CFP](/cmna24/subsmission) released
