@@ -25,22 +25,22 @@ comments: false
 |  Authors | Title  | Time  |
 |----------|---|---|
 | Workshop Organisers | **OPENING REMARKS** | 09:00-09:10 |
-Ana Gutiérrez Mandingorra (Universitat Politècnica de València)*; Stella Heras (Universitat Politècnica de València); Javi Palanca (Universitat Politècnica de València)| Detecting disinformation through computational argumentation techniques and large language models | 09:10-09:30 |
-| Beauty Oluokun (Imperial College London); Guilherme Paulino-Passos (Imperial College London); Antonio Rago (Imperial College London)*; Francesca Toni (Imperial College London) | Predicting Human Judgement in Online Debates with Argumentation |09:30-10:00 |
-| Joeri Peters (Utrecht University)*; Floris Bex (Utrecht University & Tilburg University); Henry Prakken (Utrecht University) | Arguments Based on Domain Rules in Prediction Justifications | 10:00-10:30 |
+Ana Gutiérrez Mandingorra (Universitat Politècnica de València)*; Stella Heras (Universitat Politècnica de València); Javi Palanca (Universitat Politècnica de València)| [Detecting disinformation through computational argumentation techniques and large language models]((/cmna24/assets/papers/gutierrez.pdf)) | 09:10-09:30 |
+| Beauty Oluokun (Imperial College London); Guilherme Paulino-Passos (Imperial College London); Antonio Rago (Imperial College London)*; Francesca Toni (Imperial College London) | [Predicting Human Judgement in Online Debates with Argumentation](/cmna24/assets/papers/oluokun.pdf) |09:30-10:00 |
+| Joeri Peters (Utrecht University)*; Floris Bex (Utrecht University & Tilburg University); Henry Prakken (Utrecht University) | [Arguments Based on Domain Rules in Prediction Justifications](/cmna24/assets/papers/peters.pdf) | 10:00-10:30 |
 | ALL | **BREAK/COFFEE/CHAT** | 10:30-11:00 |
-| Rudi Palmieri (University of Liverpool)*, Katarzyna Budzynska (Warsaw University of Technology)*; Marcin Koszowy (Warsaw University of Technology); Patrick Saint-Dizier (retired from CNRS); Maciej Bartosz Uberna (Politechnika Warszawska) | From loci to critical questions: an AMT approach to argument evaluation. Insights from the domain of corporate controversies. | 11:00-11:30 |
-| Fahad M Alzaidee (University of York) | Enhancing Essay Argument Persuasiveness Prediction Using a RoBERTa-LSTM Hybrid Model | 11:30-11:50 |
-| Henry Prakken (Utrecht University | On Evaluating Legal-Reasoning Capabilities of Generative AI | 11:50-12:20 |
+| Rudi Palmieri (University of Liverpool) | [From loci to critical questions: an AMT approach to argument evaluation. Insights from the domain of corporate controversies.](/cmna24/assets/papers/palmieri.pdf) | 11:00-11:30 |
+| Fahad M Alzaidee (University of York) | [Enhancing Essay Argument Persuasiveness Prediction Using a RoBERTa-LSTM Hybrid Model](/cmna24/assets/papers/alzaidee.pdf) | 11:30-11:50 |
+| Henry Prakken (Utrecht University | [On Evaluating Legal-Reasoning Capabilities of Generative AI](/cmna24/assets/papers/prakken.pdf) | 11:50-12:20 |
 | ALL | Slack time/Discussion | 12:20-12:40 |
 | ALL | **LUNCH BREAK** (Lunch is included in the fees and will be provided in the Mensa building 4) | 12:40-13:50 |
-| Elena Musi (University of Liverpool)*; Rudi Palmieri (University of Liverpool) | The Fallacy of Explainable Generative AI: evidence from argumentative prompting in two domains  | 13:50-14:10 |
-| Katarzyna Budzynska (Warsaw University of Technology)*; Marcin Koszowy (Warsaw University of Technology);  Patrick Saint-Dizier (retired from CNRS); Maciej Bartosz Uberna (Politechnika Warszawska) | Analysing Language of the Dynamics of Ethos and Emotions in Rephrased Arguments | 14:10-14:40 |
-| Loris Isabettini (University of Windsor) | Modelling Natural Argumentation in Education: Bridging Traditional Frameworks and Modern Multimodal Approaches | 14:40- 15:00 |
-| Nancy L Green (University of North Carolina Greensboro)*; Derek McLachlin (U. Western Ontario); Robert Mercer (The University of Western Ontario) | Modeling Biochemistry Argument | 15:00-15:30 |
+| Elena Musi (University of Liverpool)*; Rudi Palmieri (University of Liverpool) | [The Fallacy of Explainable Generative AI: evidence from argumentative prompting in two domains](/cmna24/assets/papers/musi.pdf)  | 13:50-14:10 |
+| Katarzyna Budzynska (Warsaw University of Technology)*; Marcin Koszowy (Warsaw University of Technology);  Patrick Saint-Dizier (retired from CNRS); Maciej Bartosz Uberna (Politechnika Warszawska) | [Analysing Language of the Dynamics of Ethos and Emotions in Rephrased Arguments](/cmna24/assets/papers/budzynska.pdf) | 14:10-14:40 |
+| Loris Isabettini (University of Windsor) | [Modelling Natural Argumentation in Education: Bridging Traditional Frameworks and Modern Multimodal Approaches](/cmna24/assets/papers/isabettini.pdf) | 14:40- 15:00 |
+| Nancy L Green (University of North Carolina Greensboro)*; Derek McLachlin (U. Western Ontario); Robert Mercer (The University of Western Ontario) | [Modeling Biochemistry Argument](/cmna24/assets/papers/green.pdf) | 15:00-15:30 |
 | ALL | **BREAK/COFFEE/CHAT** | 15:30-16:00 |
-| Yuanxi Fu (School of Information Sciences, University of Illinois Urbana-Champaign)*; Jodi Schneider (School of Information Sciences, University of Illinois Urbana-Champaign) | An Argumentation interface to facilitate human-machine collaboration in scientific discovery: A preliminary exploration | 16:00-16:20 |
-| Giulia D'Agostino (Università della Svizzera italiana)*; Andrea Rocci (Università della Svizzera italiana) | Argumentative patterns in the context of dialogical exchanges in the financial domain | 16:20-16:50 |
+| Yuanxi Fu (School of Information Sciences, University of Illinois Urbana-Champaign)*; Jodi Schneider (School of Information Sciences, University of Illinois Urbana-Champaign) | [An Argumentation interface to facilitate human-machine collaboration in scientific discovery: A preliminary exploration](/cmna24/assets/papers/fu.pdf) | 16:00-16:20 |
+| Giulia D'Agostino (Università della Svizzera italiana)*; Andrea Rocci (Università della Svizzera italiana) | [Argumentative patterns in the context of dialogical exchanges in the financial domain](/cmna24/assets/papers/dagostino.pdf) | 16:20-16:50 |
 | Workshop Organisers | **CLOSING REMARKS** | 16:50-17:00 |
 
 
