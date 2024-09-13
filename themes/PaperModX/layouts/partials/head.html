@@ -27,15 +27,6 @@
     {{- with site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end -}}">
 <meta name="author" content="{{ (partial "author.html" . ) }}">
 <link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}">
-{{- if site.Params.analytics.googlesiteVerificationTag }}
-<meta name="google-site-verification" content="{{ site.Params.analytics.googlesiteVerificationTag }}">
-{{- end }}
-{{- if site.Params.analytics.yandexsiteVerificationTag }}
-<meta name="yandex-verification" content="{{ site.Params.analytics.yandexsiteVerificationTag }}">
-{{- end }}
-{{- if site.Params.analytics.bingsiteVerificationTag }}
-<meta name="msvalidate.01" content="{{ site.Params.analytics.bingsiteVerificationTag }}">
-{{- end }}
 
 {{- /* Styles */}}
 {{- $theme_vars := (resources.Get "css/core/theme-vars.css") }}
@@ -74,12 +65,6 @@
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-  {{- if site.GoogleAnalytics }}
-    {{- template "_internal/google_analytics.html" . }}
-  {{- end -}}
-  {{- if site.Params.useCustomAnalytics }}
-    {{- partialCached "custom_analytics.html" . "custom_analytics.html" }}
-  {{- end -}}
 {{- end -}}
 
 {{- /* https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started */}}
