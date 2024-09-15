@@ -25,7 +25,7 @@ comments: false
 |  Authors | Title  | Time  |
 |----------|---|---|
 | Workshop Organisers | **OPENING REMARKS** | 09:00-09:10 |
-Ana Gutiérrez Mandingorra (Universitat Politècnica de València)*; Stella Heras (Universitat Politècnica de València); Javi Palanca (Universitat Politècnica de València)| [Detecting disinformation through computational argumentation techniques and large language models]((/cmna24/assets/papers/gutierrez.pdf)) | 09:10-09:30 |
+Ana Gutiérrez Mandingorra (Universitat Politècnica de València)*; Stella Heras (Universitat Politècnica de València); Javi Palanca (Universitat Politècnica de València)| [Detecting disinformation through computational argumentation techniques and large language models](/cmna24/assets/papers/gutierrez.pdf) | 09:10-09:30 |
 | Beauty Oluokun (Imperial College London); Guilherme Paulino-Passos (Imperial College London); Antonio Rago (Imperial College London)*; Francesca Toni (Imperial College London) | [Predicting Human Judgement in Online Debates with Argumentation](/cmna24/assets/papers/oluokun.pdf) |09:30-10:00 |
 | Joeri Peters (Utrecht University)*; Floris Bex (Utrecht University & Tilburg University); Henry Prakken (Utrecht University) | [Arguments Based on Domain Rules in Prediction Justifications](/cmna24/assets/papers/peters.pdf) | 10:00-10:30 |
 | ALL | **BREAK/COFFEE/CHAT** | 10:30-11:00 |
