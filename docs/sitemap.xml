@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cmna-workshop.github.io/cmna24/about/</loc>
+    <loc>http://localhost:1313/cmna24/about/</loc>
   </url><url>
-    <loc>https://cmna-workshop.github.io/cmna24/categories/</loc>
+    <loc>http://localhost:1313/cmna24/categories/</loc>
   </url><url>
-    <loc>https://cmna-workshop.github.io/cmna24/</loc>
+    <loc>http://localhost:1313/cmna24/</loc>
   </url><url>
-    <loc>https://cmna-workshop.github.io/cmna24/dates/</loc>
+    <loc>http://localhost:1313/cmna24/dates/</loc>
   </url><url>
-    <loc>https://cmna-workshop.github.io/cmna24/news/</loc>
+    <loc>http://localhost:1313/cmna24/news/</loc>
   </url><url>
-    <loc>https://cmna-workshop.github.io/cmna24/organisation/</loc>
+    <loc>http://localhost:1313/cmna24/organisation/</loc>
   </url><url>
-    <loc>https://cmna-workshop.github.io/cmna24/programme/</loc>
+    <loc>http://localhost:1313/cmna24/programme/</loc>
   </url><url>
-    <loc>https://cmna-workshop.github.io/cmna24/series/</loc>
+    <loc>http://localhost:1313/cmna24/series/</loc>
   </url><url>
-    <loc>https://cmna-workshop.github.io/cmna24/submission/</loc>
+    <loc>http://localhost:1313/cmna24/submission/</loc>
   </url><url>
-    <loc>https://cmna-workshop.github.io/cmna24/tags/</loc>
+    <loc>http://localhost:1313/cmna24/tags/</loc>
   </url><url>
-    <loc>https://cmna-workshop.github.io/cmna24/topics/</loc>
+    <loc>http://localhost:1313/cmna24/topics/</loc>
   </url>
 </urlset>
