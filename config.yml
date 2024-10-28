@@ -58,6 +58,9 @@ languages:
         - name: Programme
           url: /programme/
           weight: 12
+        - name: Sponsors
+          url: /sponsors/
+          weight: 14
         - name: About
           url: /about/
           weight: 15

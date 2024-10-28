@@ -53,8 +53,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cmna-workshop.github.io/cmna24/news/</guid>
-      <description> [2024.09.13] Workshop Programme published [2024.07.08] Third CFP with updated deadline released [2024.07.03] Second CFP released [2024.03.22] Link for submissions released [2024.03.22] First CFP released [2024.02.26] Final Workshop day confirmed. See the dates page for more info. [2024.02.13] All new CMNA&#39;24 Website published with an all new design. </description>
+      <description> [2024.10.28] CEUR proceedings published. [2024.09.13] Workshop Programme published [2024.07.08] Third CFP with updated deadline released [2024.07.03] Second CFP released [2024.03.22] Link for submissions released [2024.03.22] First CFP released [2024.02.26] Final Workshop day confirmed. See the dates page for more info. [2024.02.13] All new CMNA&#39;24 Website published with an all new design. </description>
       <content:encoded><![CDATA[<ul>
+<li>[2024.10.28] <a href="https://ceur-ws.org/Vol-3769/">CEUR proceedings</a> published.</li>
 <li>[2024.09.13] <a href="/cmna24/programme">Workshop Programme</a> published</li>
 <li>[2024.07.08] Third <a href="/cmna24/submission">CFP</a> with updated deadline released</li>
 <li>[2024.07.03] Second <a href="/cmna24/subsmission">CFP</a> released</li>
@@ -317,6 +318,23 @@ This year we've coordinated with the [interdisciplinary monthly online speaker s
 **Abstract:** People have some crazy opinions. Generally, these are the opinions that we disagree with. The standard view in both academia and the wider culture is that people have such opinions due to knowledge deficits; they are lacking information. On this view, providing information and critical reasoning skills is the best way to get opinions to converge, because they’ll converge to the truth. There is already strong reason to doubt this deficit model. I provide more in the form of evidence that knowledge is unrelated to attitudes about issues. In contrast, a person’s ideology influences both their attitudes and their sense of understanding. A competitor to the deficit model, the cultural cognition view, explains the effect of ideology on attitudes, but does not address the sense of understanding. I follow the cultural cognition view in proposing that people outsource much of their reasoning to their communities; I add that it is the resulting sense of understanding that mediates their attitudes. This community of knowledge suggests that people outsource most of their reasoning. I show how this fact can be deployed to bring evidence to bear on policy.
 
 -->
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>https://cmna-workshop.github.io/cmna24/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna24/sponsors/</guid>
+      <description>We acknowledge the kind support of our sponsors:
+Our 2024 host organisation, the 10th International Conference on Computational Models of Argument, and CEUR Workshop proceedings who graciously host our published papers. The TIB who provide long-term archival hosting for CMNA proceedings. </description>
+      <content:encoded><![CDATA[<p>We acknowledge the kind support of our sponsors:</p>
+<ul>
+<li>Our 2024 host organisation, the <a href="https://comma2024.krportal.org/">10th International Conference on Computational Models of Argument</a>, and</li>
+<li><a href="https://ceur-ws.org">CEUR Workshop proceedings</a> who graciously host our published papers.</li>
+<li>The <a href="https://www.tib.eu/en/">TIB</a> who provide long-term archival hosting for CMNA proceedings.</li>
+</ul>
 ]]></content:encoded>
     </item>
     
